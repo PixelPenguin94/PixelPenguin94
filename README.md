@@ -1,4 +1,8 @@
 ## Hi there 👋
+### 📊 My Coding Stats
+
+![](https://vercel.app)
+
 
 <!--
 **PixelPenguin94/PixelPenguin94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
